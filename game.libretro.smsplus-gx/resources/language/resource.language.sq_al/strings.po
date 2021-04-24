@@ -1,0 +1,41 @@
+# game.libretro.smsplus-gx language file
+# Addon Name: game.libretro.smsplus-gx
+# Addon id: game.libretro.smsplus-gx
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.smsplus-gx\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2020-10-19 06:19i\n"
+"PO-Revision-Date: 2020-10-19 06:19i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sq_al\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Use FM (YM2413) (Restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Hardware (Restart)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Blargg NTSC Filter"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Region (Restart)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Remove Border"
+msgstr ""
