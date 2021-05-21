@@ -22,21 +22,21 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Use FM (YM2413) (Restart)"
-msgstr ""
-
-msgctxt "#30002"
 msgid "Hardware (Restart)"
 msgstr ""
 
-msgctxt "#30003"
-msgid "Blargg NTSC Filter"
-msgstr ""
-
-msgctxt "#30004"
+msgctxt "#30002"
 msgid "Region (Restart)"
 msgstr ""
 
+msgctxt "#30003"
+msgid "Use FM (YM2413) (Restart)"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Hide SMS Left Border"
+msgstr ""
+
 msgctxt "#30005"
-msgid "Remove Border"
+msgid "Blargg NTSC Filter"
 msgstr ""
