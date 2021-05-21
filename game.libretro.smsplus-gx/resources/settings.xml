@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="smsplus_fm_sound" values="auto|disabled" default="auto"/>
-		<setting label="30002" type="select" id="smsplus_hardware" values="auto|master system|master system II|game gear|game gear (sms compatibility)|coleco" default="auto"/>
-		<setting label="30003" type="select" id="smsplus_ntsc_filter" values="disabled|composite|svideo|rgb|monochrome" default="disabled"/>
-		<setting label="30004" type="select" id="smsplus_region" values="auto|ntsc-u|pal|ntsc-j" default="auto"/>
-		<setting label="30005" type="select" id="smsplus_remove_left_border" values="disabled|enabled" default="disabled"/>
+		<setting label="30001" type="select" id="smsplus_hardware" values="auto|master system|master system II|game gear|game gear (sms compatibility)|coleco" default="auto"/>
+		<setting label="30002" type="select" id="smsplus_region" values="auto|ntsc-u|pal|ntsc-j" default="auto"/>
+		<setting label="30003" type="select" id="smsplus_fm_sound" values="auto|disabled" default="auto"/>
+		<setting label="30004" type="select" id="smsplus_hide_left_border" values="disabled|enabled" default="disabled"/>
+		<setting label="30005" type="select" id="smsplus_ntsc_filter" values="disabled|composite|svideo|rgb|monochrome" default="disabled"/>
 	</category>
 </settings>
