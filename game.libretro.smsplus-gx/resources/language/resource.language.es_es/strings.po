@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "Sega - MS/GG (SMS Plus GX) 1.8"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "SMS Plus GX was originally a Sega Master System emulator for the Nintendo GameCube. It was ported to libretro by gameblabla.
+
+Supported files: .sms, .bin, .rom, .col, .gg, .sg"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"

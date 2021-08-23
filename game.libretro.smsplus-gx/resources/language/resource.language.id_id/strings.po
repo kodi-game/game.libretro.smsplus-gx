@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgctxt "Addon Summary"
+msgid "Sega - MS/GG (SMS Plus GX) 1.8"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "SMS Plus GX was originally a Sega Master System emulator for the Nintendo GameCube. It was ported to libretro by gameblabla.
+
+Supported files: .sms, .bin, .rom, .col, .gg, .sg"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
