@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "SMS Plus GX is a port of the original Sega Master System emulator for the Nintendo GameCube."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Ported to libretro by gameblabla"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
