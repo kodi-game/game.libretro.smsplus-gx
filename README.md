@@ -4,25 +4,27 @@
 # Sega - MS/GG (SMS Plus GX)
 
 ### Description
+
 SMS Plus GX is a port of the original Sega Master System emulator for the Nintendo GameCube.
 
 ### License
+
 GPLv2
 
 ### Icon
 
 ![Icon](game.libretro.smsplus-gx/resources/icon.png)
 
+### Fanart
+
+Help make me fanart!
+
 ### Screenshots
 
 ![Screenshot](game.libretro.smsplus-gx/resources/screenshot-01.jpg)
-
 ![Screenshot](game.libretro.smsplus-gx/resources/screenshot-02.jpg)
-
 ![Screenshot](game.libretro.smsplus-gx/resources/screenshot-03.jpg)
-
 
 ### Disclaimer
 
 *Ported to libretro by gameblabla*
-
