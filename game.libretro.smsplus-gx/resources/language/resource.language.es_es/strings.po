@@ -34,21 +34,45 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Hardware (Restart)"
-msgstr "Hardware (Reinicio)"
+msgid "Master System BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Region (Restart)"
-msgstr "Región (Reinicio)"
+msgid "Hardware (Restart Required)"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Use FM (YM2413) (Restart)"
-msgstr "Usar FM (YM2413) (Reinicio)"
+msgid "Region (Restart Required)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Hide SMS Left Border"
-msgstr "Ocultar Borde Izquierdo SMS"
+msgid "Use FM (YM2413) (Restart Required)"
+msgstr ""
 
 msgctxt "#30005"
+msgid "Hide SMS Left Border"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Blargg NTSC Filter"
-msgstr "Filtro NTSC Blargg"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Hardware (Restart)"
+#~ msgstr "Hardware (Reinicio)"
+
+#~ msgctxt "#30002"
+#~ msgid "Region (Restart)"
+#~ msgstr "Región (Reinicio)"
+
+#~ msgctxt "#30003"
+#~ msgid "Use FM (YM2413) (Restart)"
+#~ msgstr "Usar FM (YM2413) (Reinicio)"
+
+#~ msgctxt "#30004"
+#~ msgid "Hide SMS Left Border"
+#~ msgstr "Ocultar Borde Izquierdo SMS"
+
+#~ msgctxt "#30005"
+#~ msgid "Blargg NTSC Filter"
+#~ msgstr "Filtro NTSC Blargg"
