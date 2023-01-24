@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.smsplus-gx/resources/icon.png)
+![Sega - MS/GG (SMS Plus GX) icon](game.libretro.smsplus-gx/resources/icon.png)
 
 ### Fanart
 
@@ -21,9 +21,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.smsplus-gx/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.smsplus-gx/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.smsplus-gx/resources/screenshot-03.jpg)
+![Sega - MS/GG (SMS Plus GX) screenshot](game.libretro.smsplus-gx/resources/screenshot-01.jpg)
+![Sega - MS/GG (SMS Plus GX) screenshot](game.libretro.smsplus-gx/resources/screenshot-02.jpg)
+![Sega - MS/GG (SMS Plus GX) screenshot](game.libretro.smsplus-gx/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
