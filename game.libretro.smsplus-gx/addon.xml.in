@@ -24,7 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Sega - MS/GG (SMS Plus GX) 1.8</summary>
+		<summary lang="en_GB">Sega - MS/GG (SMS Plus GX)</summary>
 		<description lang="da_DK">SMS Plus GX er en port af den originale Sega Master System-emulator til Nintendo GameCube.</description>
 		<description lang="en_GB">SMS Plus GX is a port of the original Sega Master System emulator for the Nintendo GameCube.</description>
 		<description lang="es_ES">SMS Plus GX es una adaptación del emulador original de Sega Master System para Nintendo GameCube.</description>
