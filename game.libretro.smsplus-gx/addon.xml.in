@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.smsplus-gx"
 		name="Sega - MS/GG (SMS Plus GX)"
-		version="1.8.0.31"
+		version="1.8.0.32"
 		provider-name="Charles MacDonald, gameblabla">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
