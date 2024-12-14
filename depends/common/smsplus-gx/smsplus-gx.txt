@@ -1,1 +1,1 @@
-smsplus-gx https://github.com/libretro/smsplus-gx/archive/96fa9bc65aa27a5ab2779f9f2ff0439fec7cf513.tar.gz
+smsplus-gx https://github.com/libretro/smsplus-gx/archive/c642bbd0680b5959180a420036108893d0aec961.tar.gz

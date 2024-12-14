@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="smsplus_sms_bios" values="disabled|auto" default="disabled"/>
 		<setting label="30002" type="select" id="smsplus_hardware" values="auto|master system|master system II|game gear|game gear (sms compatibility)|coleco" default="auto"/>
 		<setting label="30003" type="select" id="smsplus_region" values="auto|ntsc-u|pal|ntsc-j" default="auto"/>
