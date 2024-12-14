@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Ported to libretro by gameblabla"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Master System BIOS (Restart Required)"
 msgstr ""

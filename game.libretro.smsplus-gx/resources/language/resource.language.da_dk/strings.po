@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Ported to libretro by gameblabla"
 msgstr "Udviklet til libretro af gameblabla"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Master System BIOS (Restart Required)"
 msgstr "Hovedsystemets BIOS (genstart påkrævet)"
@@ -56,6 +52,10 @@ msgstr "Skjul venstre SMS-kant"
 msgctxt "#30006"
 msgid "Blargg NTSC Filter"
 msgstr "Blargg NTSC-filter"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30001"
 #~ msgid "Hardware (Restart)"
