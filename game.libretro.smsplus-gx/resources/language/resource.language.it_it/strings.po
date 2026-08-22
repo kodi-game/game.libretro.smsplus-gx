@@ -53,6 +53,30 @@ msgctxt "#30006"
 msgid "Blargg NTSC Filter"
 msgstr "Filtro NTSC Blargg"
 
+msgctxt "#30007"
+msgid "Use official BIOS/bootloader for emulated hardware, if present in RetroArch's system directory. Displays console-specific start-up sequence/animation."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Emulates which system hardware to use."
+msgstr ""
+
+msgctxt "#30009"
+msgid "Runs console at a specific video timing based on region."
+msgstr ""
+
+msgctxt "#30010"
+msgid "Use FM Sound for some Master System games to enable enhanced music. Some games will only enable YM2413 sound if the Region option is also set to ntsc-j (e.g. Wonder Boy III)."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Hides left border and center image onscreen."
+msgstr ""
+
+msgctxt "#30012"
+msgid "Enable blargg NTSC filter."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Impostazioni"
