@@ -77,6 +77,54 @@ msgctxt "#30012"
 msgid "Enable blargg NTSC filter."
 msgstr "Attiva il filtro NTSC Blargg."
 
+msgctxt "#30013"
+msgid "master system"
+msgstr ""
+
+msgctxt "#30014"
+msgid "master system II"
+msgstr ""
+
+msgctxt "#30015"
+msgid "game gear"
+msgstr ""
+
+msgctxt "#30016"
+msgid "game gear (sms compatibility)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "coleco"
+msgstr ""
+
+msgctxt "#30018"
+msgid "ntsc-u"
+msgstr ""
+
+msgctxt "#30019"
+msgid "pal"
+msgstr ""
+
+msgctxt "#30020"
+msgid "ntsc-j"
+msgstr ""
+
+msgctxt "#30021"
+msgid "composite"
+msgstr ""
+
+msgctxt "#30022"
+msgid "svideo"
+msgstr ""
+
+msgctxt "#30023"
+msgid "rgb"
+msgstr ""
+
+msgctxt "#30024"
+msgid "monochrome"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Impostazioni"
