@@ -8,8 +8,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>auto</option>
+							<option label="13106">disabled</option>
+							<option label="16316">auto</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -19,7 +19,7 @@
 					<default>auto</default>
 					<constraints>
 						<options>
-							<option>auto</option>
+							<option label="16316">auto</option>
 							<option>master system</option>
 							<option>master system II</option>
 							<option>game gear</option>
@@ -34,7 +34,7 @@
 					<default>auto</default>
 					<constraints>
 						<options>
-							<option>auto</option>
+							<option label="16316">auto</option>
 							<option>ntsc-u</option>
 							<option>pal</option>
 							<option>ntsc-j</option>
@@ -47,8 +47,8 @@
 					<default>auto</default>
 					<constraints>
 						<options>
-							<option>auto</option>
-							<option>disabled</option>
+							<option label="16316">auto</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -58,8 +58,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -69,7 +69,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option>composite</option>
 							<option>svideo</option>
 							<option>rgb</option>
