@@ -20,11 +20,11 @@
 					<constraints>
 						<options>
 							<option label="16316">auto</option>
-							<option>master system</option>
-							<option>master system II</option>
-							<option>game gear</option>
-							<option>game gear (sms compatibility)</option>
-							<option>coleco</option>
+							<option label="30013">master system</option>
+							<option label="30014">master system II</option>
+							<option label="30015">game gear</option>
+							<option label="30016">game gear (sms compatibility)</option>
+							<option label="30017">coleco</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -35,9 +35,9 @@
 					<constraints>
 						<options>
 							<option label="16316">auto</option>
-							<option>ntsc-u</option>
-							<option>pal</option>
-							<option>ntsc-j</option>
+							<option label="30018">ntsc-u</option>
+							<option label="30019">pal</option>
+							<option label="30020">ntsc-j</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -70,10 +70,10 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>composite</option>
-							<option>svideo</option>
-							<option>rgb</option>
-							<option>monochrome</option>
+							<option label="30021">composite</option>
+							<option label="30022">svideo</option>
+							<option label="30023">rgb</option>
+							<option label="30024">monochrome</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
